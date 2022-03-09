@@ -1,7 +1,15 @@
 # Comprehensive Mortgage Calculator
 
+### Link to YouTube video
 This is the repo for the ***Comprehensive Mortgage Calculator***. Here is the URL to the YouTube video that describes the mortgage calculator:  https://www.youtube.com/watch?v=NuQXJE6eZxI.
 
+### How to download the Excel Workbook 
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+
+### Important Definitions
 Here are some important definitions that will help you understand the calculator:
 
 - **Year**: A given year in the projected amortization schedule. Can be a number between 1 and 30. 
