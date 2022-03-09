@@ -17,4 +17,4 @@ Here are some important definitions that will help you understand the calculator
 - **House Value at Beg of Year**:  Expected house value at the beginning of the given year based on estimated real-estate inflation.
 - **House Value at End of Year**:  Expected house value at the end of the given year based on estimated real-estate inflation.
 - **Balance Owed at End of Year**:  Balance owed at end of year based on the difference of the original loan value minus the cummulative principal paid.
-- **Equity at End of Year**:  Equit at the end of the year that is a combination of the appreciation and balance paid.
+- **Equity at End of Year**:  Equity at the end of the year that is a combination of the appreciation and balance paid.
