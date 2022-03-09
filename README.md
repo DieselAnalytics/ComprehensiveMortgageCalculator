@@ -4,8 +4,8 @@
 This is the repo for the ***Comprehensive Mortgage Calculator***. Here is the URL to the YouTube video that describes the mortgage calculator:  https://www.youtube.com/watch?v=NuQXJE6eZxI.
 
 ### How to download the Excel Workbook 
-1. Step 1
-2. Step 2
+1. Go to the root folder of the repo
+2. Click on the 
 3. Step 3
 4. Step 4
 
