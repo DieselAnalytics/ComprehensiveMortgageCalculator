@@ -6,8 +6,7 @@ This is the repo for the ***Comprehensive Mortgage Calculator***. Here is the UR
 ### How to download the Excel Workbook 
 1. Go to the root folder of the repo
 2. Click on the link for ***MortgageCalculator.xlsx***
-3. Step 3
-4. Step 4
+3. Click the download button located in the middle right section of the page
 
 ### Important Definitions
 Here are some important definitions that will help you understand the calculator:
